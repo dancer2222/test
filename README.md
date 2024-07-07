@@ -15,6 +15,7 @@ docker-compose exec -u 1000 app bash
 php artisan migrate
 
 //---------------------------------//
+
 For local testing can use endpoint
 http://localhost:8888/api/submit
 
